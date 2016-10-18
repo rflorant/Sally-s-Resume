@@ -1,7 +1,14 @@
 body {
 	padding:60px;
+	max-width: 800px;
 }
 
 h3 {
 	opacity: .8;
+	color: red;
+}
+
+.portrait {
+	float: left;
+	padding: 0 2em 0 0;
 }
