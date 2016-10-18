@@ -6,6 +6,22 @@ body {
 h3 {
 	opacity: .8;
 	color: red;
+	margin-bottom: 0px;
+}
+
+h4 {
+	opacity: .6;
+	font-family: helvetica, sans-serif;
+	margin: 0px;
+}
+
+h1 {
+	opacity: .6;
+	font-family: helvetica, sans-serif;
+	font-weight: lighter;
+	padding-bottom: 0;
+	margin: 0px;
+
 }
 
 .portrait {
